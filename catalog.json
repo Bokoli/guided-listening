@@ -1,0 +1,121 @@
+{
+  "podcast": {
+    "title": "C.G.Jung Helpdesk",
+    "feedUrl": "https://feeds.redcircle.com/c1a3de7b-1b92-4c7f-8e36-8484721d29f4",
+    "note": "Episodes referenced by number/title in this draft; the app will key them to feed GUIDs automatically."
+  },
+  "checkin": {
+    "question1": {
+      "prompt": "What stayed with you most?",
+      "options": ["Jung's own words", "The concepts", "The film & culture connections", "How it applies to my life"]
+    },
+    "question2": {
+      "prompt": "Where do you want to go deeper?",
+      "options": "topics"
+    }
+  },
+  "onboarding": {
+    "prompt": "What do you want to explore?",
+    "maxTopics": 5
+  },
+  "topics": [
+    {
+      "id": "foundations",
+      "name": "The Map of the Psyche",
+      "tagline": "Jung's core model, from the ground up",
+      "journey": [
+        "001 - Life",
+        "033 - What Makes an Idea Jungian",
+        "005 - A History of Consciousness",
+        "006 - Dynamics of the Psyche",
+        "044 - On Consciousness",
+        "002 - Archetypes & The Collective Unconscious",
+        "059 - On Archetypes",
+        "034 - On Complexes",
+        "037 - On Associations",
+        "007 - Typology & Personality",
+        "060 - On the Inferior Function",
+        "029 - On Intuition",
+        "012 - Perception & Experience",
+        "041 - On Reality",
+        "003 - Neurosis, Hysteria, Psychosis, Schizophrenia"
+      ]
+    },
+    {
+      "id": "shadow-self",
+      "name": "Shadow, Self & Individuation",
+      "tagline": "The inner cast of characters and the path to wholeness",
+      "journey": [
+        "017 - Shadow & Projection",
+        "056 - A Shadow of Doubt",
+        "024 - Persona & Groups",
+        "039 - On The Other",
+        "016 - Inflation & Possession",
+        "032 - On Puer Aeternus",
+        "053 - Logos & Eros",
+        "030 - On Evil",
+        "014 - Symbols & The Third",
+        "018 - The Self & Mandala",
+        "015 - Individuation"
+      ]
+    },
+    {
+      "id": "dreams-symbols",
+      "name": "Dreams, Symbols & the Numinous",
+      "tagline": "Where the unconscious speaks: dreams, alchemy, synchronicity",
+      "journey": [
+        "011 - Dreams",
+        "042 - On Fantasy",
+        "013 - The Creative Spirit",
+        "009 - Alchemy & Active Imagination",
+        "010 - Synchronicity & Astrology (& Aions)",
+        "040 - On Aions",
+        "049 - Physics & Numbers",
+        "048 - On Irrationality",
+        "054 - On Tarot",
+        "052 - On UFOs",
+        "050 - Rebirth & Resurrection",
+        "057 - Dancing & Movement"
+      ]
+    },
+    {
+      "id": "movies",
+      "name": "Jung at the Movies",
+      "tagline": "Film analyses through a Jungian lens",
+      "journey": [
+        "019 - Movie Analysis: Barbie",
+        "022 - Movie Analysis: Fight Club",
+        "025 - Movie Analysis: Titanic",
+        "027 - Movie Analysis: Jaws",
+        "043 - Movie Analysis: American Psycho",
+        "045 - Movie Analysis: Runaway Bride",
+        "047 - Movie Analysis: Scarface",
+        "055 - Movie Analysis: The Matrix"
+      ]
+    },
+    {
+      "id": "everyday",
+      "name": "Jung in Everyday Life",
+      "tagline": "Relationships, family, body, nature — and Jung the man",
+      "journey": [
+        "058 - The Self-Help Jung",
+        "051 - On Relationships",
+        "008 - Mother, Father, Child",
+        "036 - On Children",
+        "031 - On the Body",
+        "035 - On Nature",
+        "038 - On Secrets",
+        "046 - Suffering & Sacrifice",
+        "026 - Analytical Psychology & Therapy",
+        "021 - The East & The West",
+        "020 - Jung vs. Freud",
+        "023 - The Misunderstood Jung",
+        "028 - Where I struggle with Jung",
+        "004 - All The Books"
+      ]
+    }
+  ],
+  "unassigned": [
+    "Intro (trailer — plays from the About screen, not part of a journey)"
+  ]
+}
